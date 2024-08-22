@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be3b2c2-f878-4bc7-b32d-7fc5855800f8" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/face-recognition/.eslintrc.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/Attendance.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/Capture.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/Liveness.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/ReRegister.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/Sidebar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/Verify.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/clock.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/src/vite-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face-recognition/vite.config.ts" afterDir="false" />
-    </list>
+    <list default="true" id="2be3b2c2-f878-4bc7-b32d-7fc5855800f8" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -326,7 +297,7 @@
       <updated>1721184060051</updated>
       <workItem from="1721184062101" duration="34000" />
       <workItem from="1721184107561" duration="1151000" />
-      <workItem from="1721351047479" duration="2734000" />
+      <workItem from="1721351047479" duration="3130000" />
     </task>
     <servers />
   </component>
